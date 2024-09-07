@@ -41,7 +41,6 @@ async function weather(city) {
 
     document.querySelector(".weather").style.display = "block";
 
-
 }
 
 searchbtn.addEventListener('click', () => {
